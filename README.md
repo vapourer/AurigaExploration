@@ -1,0 +1,3 @@
+This repository contains code written as practical work for the final project of an Astrophysics course.  It includes a lot of exploratory code, written to investigate and validate a large datastore.  Its use requires access to the datastore and implementation of a local folder structure consistent with hard-coded file paths.  It has a dependency on [Auriga Public}(https://bitbucket.org/grandrt/auriga_public/src/master/).
+
+Output from some of this code, plots and data, was used to prepare the project report.  However, a significant proportion of the code was used for quick probing and analysis of data.  As such, it is quite untidy in places.
